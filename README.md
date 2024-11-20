@@ -1,4 +1,4 @@
-Nota: Para ver correctamente este archivo ejecute el comando de su editor de codigo fuente para leer archivos markdown, si esta usando visual es: ctrl + shift + v
+Nota: Si descarga el proyecto para ver correctamente este archivo ejecute el comando de su editor de codigo fuente para leer archivos markdown, si esta usando visual es: ctrl + shift + v
 
 # Documentación API REST para Gestión de Reservas en un Sistema de Recursos Compartidos.
 
@@ -201,7 +201,7 @@ Todas los Endpoints que reciben parametros tienen una clase Request que valida q
 ![Diagrama UML](public/images/documentation/api_500.png)
 
 
-## 3. Pruebas untiarias.
+## 4. Pruebas untiarias.
 -La primera prueba es el intento de crear una reserva de un recurso que no existe.
 - En el momento la base de datos solo tiene los siguientes registro:
 
