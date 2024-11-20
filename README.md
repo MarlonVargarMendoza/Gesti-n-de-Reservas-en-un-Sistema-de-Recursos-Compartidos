@@ -20,6 +20,7 @@ Definición: Guarda la información del tiempo, fecha y estado de la reserva que
 | status       | Estado de la reserva             | enum(confirmed, pending, cancelled) | no   |          |       |
 | resources_id | Relación con los recursos        | entero                              | no   |          | FK    |
 
+
 ### Tabla Resources
 Definición: Guarda la información del nombre, descripción y capacidad de los recursos.
 | Nombre      | Descripción                   | Tipo de dato       | Null | Longitud | Clave |
